@@ -145,6 +145,16 @@ but:
 
 **"What behaviors have I actually observed, and how do they compare with the expectations defined for this role?"**
 
+## Selected Project Materials
+
+The portfolio materials provided with this case study represent a **curated sample of the complete project**, not the full deliverable provided to Rock City Enterprises.
+
+The original project included the full competency-development and validation process, competency and essential-function validation data, behavioral anchors across four job levels, multiple rounds of SME feedback and validation, evaluation forms, and implementation and evaluator-training guidance.
+
+For portfolio purposes, selected materials are presented to demonstrate the methodology, framework, behavioral progression, and practical application of the work without reproducing the complete organizational deliverable.
+
+> **[View Selected Competency Modeling Materials](competency-modeling-performance-framework-samples.pdf)**
+
 ## Outcome
 
 The original competency labels developed through the graduate project were not implemented wholesale.
